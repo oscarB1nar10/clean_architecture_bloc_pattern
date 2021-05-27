@@ -1,0 +1,1 @@
+# clean_architecture_bloc_pattern
